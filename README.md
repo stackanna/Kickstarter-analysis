@@ -1,11 +1,13 @@
 # Kickstarter-analysis
 # Overview of Kickstarter Data Analysis to Uncover Trends
 
-This is an in-depth analysis of Kickstarter campaigns broken down into different categories. Based on this data we are able to conclude what categories of kickstarter campaigns are more likely to reach their funding goals & complete a successful launch date. An overview of the project is to visualize the relationship between outcome of campaigns and the launch month. 
+This is an in-depth analysis of Kickstarter campaigns broken down into different categories. Based on this data we are able to conclude what categories of kickstarter campaigns are more likely to reach their funding goals & complete a successful launch date. An overview of the project is to visualize the relationship between outcome of campaigns and the launch month.
+The link below is the Parent Category Outcomes of US Kickstarters. Theatre & music were of the most popular of kickstarter campaigns and the bar graph exemplifying that is below.
+https://raw.githubusercontent.com/stackanna/Kickstarter-analysis/b37042f63492a5172664f04f60ff2ba0d70aaa8f/ParentCategoryOutcomesUS.png
 
 # Analysis & Challenges
-Some challenges encountered were the COUNTIF functions. The formula would be entered correctly but it would not update the spreadsheet appropriately. Therefore making it impossible for me to complete a correct graph allowing me to draw appropriate conclusions. 
-https://raw.githubusercontent.com/stackanna/Kickstarter-analysis/b37042f63492a5172664f04f60ff2ba0d70aaa8f/ParentCategoryOutcomesUS.png
+Some challenges encountered were the COUNTIF functions. The formula would be entered correctly but it would not update the spreadsheet appropriately. Therefore making it incredibly difficult to complete a correct graph that allowed to draw appropriate conclusions. I had to analyze the data and enter the data manually using filters & finish the graph using excels formulas.  
+
 
 # Conclusions about the Data based on Launch Date
 
@@ -17,12 +19,17 @@ https://raw.githubusercontent.com/stackanna/Kickstarter-analysis/b37042f63492a51
 
 - # Conclusions of Outcomes Based on Goals
 
+The conclusion we are able to draw from the outcomes based on goals is the direct correlation between the size of the funding goal with the probablity of its success. The smaller the funding goal the higher the likelihood of the plays success. The larger the funding goal of the kickstarter campaign the higher probalility of its failure. 
+
+https://raw.githubusercontent.com/stackanna/Kickstarter-analysis/main/Outcomes%20Based%20On%20Goals.png
+
 - # Limitations of Data 
 
 Some of the limitations of this dataset are:
--  the lack of explanation as to why the plays were canceled. 
+-  the lack of explanation as to why the plays were canceled. It limits our ability to factor in other reasons for a plays success or failure. 
 - The categories of plays are unknown leaving us unable to draw conclusions as to why specific plays are more successful than others.
 
 # Potential Graphs or Charts we could create
 -  We would be able to create line graphs comparing successful kickstarter categories, drawing conclusions as to which type of entertainment is more likely to be funded. 
-- We could create bar graphs to compare the months of failed kickstarter campaigns to draw conclusions as to why they failed.
+- We could create bar graphs to compare the months of failed kickstarter campaigns to draw conclusions as to why they failed during those times.
+- We could create more in depth graphs of the parent category kickstarter campaigns to draw conclusions as to why some were more successful than the others. 
