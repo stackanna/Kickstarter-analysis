@@ -8,7 +8,7 @@ https://raw.githubusercontent.com/stackanna/Kickstarter-analysis/b37042f63492a51
 # Analysis & Challenges
 The most challenging exoerience I encountered throughout this analysis was using the COUNTIF function. On the first attempt, the formula would be entered correctly but it would not properly reference the other sheets, which in turn would prevent the spreadsheet from appropriately updating. Additionally, I encountered a few issues with the range criteria, which would leave several cells as a "0". Therefore making it incredibly difficult to complete a correct graph that allowed to draw appropriate conclusions. I had to analyze the data and enter the data manually using filters & finish the graph using excels formulas.  
 
-Due to the mass of the data itself, excel would often take several minutes to load a single function, if i clicked into a new cell, after thinking that I had finished the first formula, I would effectively 'erase' the entered formula whilst excel was stil rendering the function. Even with a brand new Mac Os with an M1 Processor, the shear amount of data to be analyzed was quite taxing on the processor. 
+Due to the mass of the data itself, excel would often take several minutes to load a single function, if i clicked into a new cell, after thinking that I had finished the first formula, I would effectively 'erase' the entered formula whilst excel was still rendering the function. Even with a brand new Mac Os with an M1 Processor, the shear amount of data to be analyzed was quite taxing on the processor. 
 
 
 # Conclusions about the Data based on Launch Date
