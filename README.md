@@ -5,10 +5,15 @@ This is an in-depth analysis of Kickstarter campaigns broken down into different
 
 # Analysis & Challenges
 Some challenges encountered were the COUNTIF functions. The formula would be entered correctly but it would not update the spreadsheet appropriately. Therefore making it impossible for me to complete a correct graph allowing me to draw appropriate conclusions. 
+https://raw.githubusercontent.com/stackanna/Kickstarter-analysis/b37042f63492a5172664f04f60ff2ba0d70aaa8f/ParentCategoryOutcomesUS.png
 
 # Conclusions about the Data based on Launch Date
 
 The first conclusion we can draw about the Outcomes based on Launch Date is that the most number of successful plays were during the Summer months. The second conclusion we are able to draw based on the Launch Date is that the most amount of canceled plays were during the coldest winter month of January. You can draw a final conclusion that the plays are more willing to succeed with less canceled and failed shows during the Summer months.
+
+https://raw.githubusercontent.com/stackanna/Kickstarter-analysis/b37042f63492a5172664f04f60ff2ba0d70aaa8f/Theatre%20Outcomes%20Based%20on%20Launch%20Date.png
+
+https://raw.githubusercontent.com/stackanna/Kickstarter-analysis/b37042f63492a5172664f04f60ff2ba0d70aaa8f/Theatre%20Outcomes%20Based%20on%20Launch%20Date.png
 
 - # Conclusions of Outcomes Based on Goals
 
